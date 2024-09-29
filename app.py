@@ -68,7 +68,7 @@ def main():
             col1.success(f"{prediction.item().title()} are recommended by the A.I for your farm.")
       #code for html ☘️ 🌾 🌳 👨‍🌾  🍃
 
-    st.warning("Note: This A.I application is for educational/demo purposes only and cannot be relied upon. Check the source code [here](https://github.com/gabbygab1233/Crop-Recommendation)")
+    st.warning(" Check the source code [here](https://github.com/gabbygab1233/Crop-Recommendation)")
     hide_menu_style = """
     <style>
     #MainMenu {visibility: hidden;}
